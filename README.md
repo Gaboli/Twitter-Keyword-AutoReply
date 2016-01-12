@@ -1,7 +1,7 @@
-Twitter-Keyword-AutoRepply
+Twitter-Keyword-AutoReply
 ==========================
 
-An automated system to re-tweet based on keyword search.
+An automated system to auto-reply based on keyword search.
 =======================================================================
     _________________________________________________________________
 
